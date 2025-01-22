@@ -64,6 +64,7 @@ Dans cette zone défilante s’afficheront les éléments suivants :
 ### Options supplémentaires :
 + Une case à cocher, si sélectionnée, lance la conversion des fichiers (nécessite que l’application soit lancée en mode administrateur).
 + Un bouton démarre le processus de recherche des fichiers et conversion (si activée), tout en affichant les étapes dans la zone de logs.
++ Un bouton de suppression des fichiers convertis se débloque après le listing des documents.
 
 ---
 
