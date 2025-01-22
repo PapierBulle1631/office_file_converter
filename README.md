@@ -47,7 +47,7 @@ Ce mode permet la **génération de rapports** ET la **conversion de fichiers** 
 - Utiliser le bouton **« Parcourir »** pour choisir le dossier dans lequel un rapport au format CSV sera généré.  
   **Important :** Les droits d’écriture dans le dossier sont nécessaires, car aucun dossier par défaut n’est défini.
 
----
+
 
 ### Les Logs
 
@@ -58,9 +58,11 @@ Dans cette zone défilante s’afficheront les éléments suivants :
 - Avancée de la conversion.
 - Noms et chemins du rapport.
 
+
+
 #### Options supplémentaires :
-- Une case à cocher, si sélectionnée, lance la conversion des fichiers (nécessite que l’application soit lancée en mode administrateur).
-- Un bouton démarre le processus de recherche des fichiers et conversion (si activée), tout en affichant les étapes dans la zone de logs.
++ Une case à cocher, si sélectionnée, lance la conversion des fichiers (nécessite que l’application soit lancée en mode administrateur).
++ Un bouton démarre le processus de recherche des fichiers et conversion (si activée), tout en affichant les étapes dans la zone de logs.
 
 ---
 
