@@ -16,6 +16,7 @@ _Date: 22/01/2025_
 - [Fonctionnement](#fonctionnement)
   - [Choix des dossiers](#choix-des-dossiers)
   - [Les Logs](#les-logs)
+  - [Options supplémentaires](#opt-supp)
 - [Le rapport (.csv)](#le-rapport-csv)
 
 ---
@@ -60,7 +61,7 @@ Dans cette zone défilante s’afficheront les éléments suivants :
 
 
 
-#### Options supplémentaires :
+### Options supplémentaires :
 + Une case à cocher, si sélectionnée, lance la conversion des fichiers (nécessite que l’application soit lancée en mode administrateur).
 + Un bouton démarre le processus de recherche des fichiers et conversion (si activée), tout en affichant les étapes dans la zone de logs.
 
