@@ -16,7 +16,7 @@ _Date: 22/01/2025_
 - [Fonctionnement](#fonctionnement)
   - [Choix des dossiers](#choix-des-dossiers)
   - [Les Logs](#les-logs)
-  - [Options supplémentaires](#options-supplementaires)
+  - [Options supplémentaires](#options-supplementaires-)
 - [Le rapport (.csv)](#le-rapport-csv)
 
 ---
