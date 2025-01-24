@@ -30,13 +30,15 @@ Quelques points à vérifier :
 
 ---
 
-## Deux façons d’ouvrir l’application
-
-### En mode « utilisateur »
-Ce mode permet uniquement la **lecture de fichiers** avec les mêmes droits que l’utilisateur et la **génération d’un rapport**.
-
-### En mode « admin »
-Ce mode permet la **génération de rapports** ET la **conversion de fichiers** en fonction des applications Office installées.
+## Ce que fait le logiciel 
+- ### Lecture de fichiers :
+Tout les dossiers et sous dossiers sont scannés à la recherche de documents au format .doc .ppt et .xls (soit les anciennes versions d'Office).
+- ### Conversion de fichiers :
+Tout les fichiers subissent une tentative de conversion dans le format moderne .docx .pptx et .xls en fonction de leur extension.
+- ### Génration d'un rapport :
+Un rapport au format .csv est généré content le chemin complet et le nom des fichiers convertis ainsi que leur taille en octet (la dernière ligne contient la taille totale en Go).
+- ### Affichage de logs :
+Une zone réservée à l'affichage est présente. Y seront affichées toute les actions et leurs résultats.
 
 ---
 
