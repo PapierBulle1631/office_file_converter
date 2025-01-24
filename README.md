@@ -20,6 +20,7 @@ _Date: 22/01/2025_
   - [Les Logs](#les-logs)
   - [Options supplémentaires](#options-supplémentaires-)
 - [Le rapport (.csv)](#le-rapport-csv)
+  - [Procédure de correction](#procédure-de-correction-)
 
 ---
 
