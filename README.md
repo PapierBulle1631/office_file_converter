@@ -11,10 +11,10 @@ _Date: 22/01/2025_
 
 - [Avant d’ouvrir l’application](#avant-douvrir-lapplication)
 - [Deux façons d’ouvrir l’application](#deux-façons-douvrir-lapplication)
-  - [Lecture de fichiers](#en-mode-utilisateur)
-  - [Conversion de fichiers](#en-mode-admin)
-  - [Génration d'un rapport](#en-mode-admin)
-  - [Affichage de logs :](#en-mode-admin)
+  - [Lecture de fichiers](#lecture-de-fichiers-)
+  - [Conversion de fichiers](#conversion-de-fichiers-)
+  - [Génération d'un rapport](#génération-dun-rapport-)
+  - [Affichage de logs :](#affichage-de-logs-)
 - [Fonctionnement](#fonctionnement)
   - [Choix des dossiers](#choix-des-dossiers)
   - [Les Logs](#les-logs)
@@ -37,7 +37,7 @@ Quelques points à vérifier :
 Tout les dossiers et sous dossiers sont scannés à la recherche de documents au format .doc .ppt et .xls (soit les anciennes versions d'Office).
 - ### Conversion de fichiers :
 Tout les fichiers subissent une tentative de conversion dans le format moderne .docx .pptx et .xls en fonction de leur extension.
-- ### Génration d'un rapport :
+- ### Génération d'un rapport :
 Un rapport au format .csv est généré content le chemin complet et le nom des fichiers convertis ainsi que leur taille en octet (la dernière ligne contient la taille totale en Go).
 - ### Affichage de logs :
 Une zone réservée à l'affichage est présente. Y seront affichées toute les actions et leurs résultats.
