@@ -11,8 +11,10 @@ _Date: 22/01/2025_
 
 - [Avant d’ouvrir l’application](#avant-douvrir-lapplication)
 - [Deux façons d’ouvrir l’application](#deux-façons-douvrir-lapplication)
-  - [En mode « utilisateur »](#en-mode-utilisateur)
-  - [En mode « admin »](#en-mode-admin)
+  - [Lecture de fichiers](#en-mode-utilisateur)
+  - [Conversion de fichiers](#en-mode-admin)
+  - [Génration d'un rapport](#en-mode-admin)
+  - [Affichage de logs :](#en-mode-admin)
 - [Fonctionnement](#fonctionnement)
   - [Choix des dossiers](#choix-des-dossiers)
   - [Les Logs](#les-logs)
